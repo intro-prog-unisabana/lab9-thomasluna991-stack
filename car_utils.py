@@ -12,4 +12,3 @@ def create_car_from_input():
 def display_cars(car_dict):
   for car in car_dict.values():
             print(car)
-# FREEZE CODE END
